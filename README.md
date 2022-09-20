@@ -1,2 +1,2 @@
-# ExpencesApp
+# ExpensesApp
 simple react expenses application  
